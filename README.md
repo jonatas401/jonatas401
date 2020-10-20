@@ -12,12 +12,27 @@
 
 ### Texto de boas vindas <img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/atom.png" width="30px"></h2>
 
+olá, meu nome é jonatas, estudo programação web no IFPE
+também tenho curso de redes o "network essencials" da cisco e CCNA1
+gosto muito da aréa de segurança de sistemas e tenho cursos na area também
+tenho introdução e fundamentos de cibersegurança e o cyberops, todos da cisco network academy
+gosto muito da areá de TI, não me vejo fazendo outra coisa 
+
+também gosto de muitas outras coisas como fotografia, música
+que são essenciais na minha vida, não tenho muitos hobbies
+mas admiro quem toca estrumentos musicas, queria aprender saxofone
+também gosto de arte marciais e queria aprender karate  
+
+
 
 
 <hr>
 
 <h3>você pode me encontar em</h3>
-<a href="https://www.linkedin.com/in/jonatas-augusto-aa933b199"><img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jonatas-augusto-aa933b199)  
+
+
+<a href="https://www.linkedin.com/in/jonatas-augusto-aa933b199/"><img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jonatas-augusto-aa933b199/)  
+
 
 <a href="https://www.instagram.com/jonatas_a.s"><img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/instagram.png" width="16"></img></a> [instagram](https://www.instagram.com/jonatas_a.s) 
 
