@@ -1,8 +1,6 @@
-# 
-# jonatas augusto da silva
 
 
-<img width="400px" align="left" src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png" />
+![capa github](https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png" )
 
 <center>
 <table>
