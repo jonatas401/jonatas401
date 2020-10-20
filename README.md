@@ -1,6 +1,6 @@
 
 
-![](https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png )
+# ![](https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png )
 
 
 <center>
@@ -19,7 +19,7 @@ também tenho curso de redes o "network essencials" e "CCNA1" da cisco,
 gosto muito da aréa de segurança de sistemas e tenho cursos na area também,
 tenho introdução e fundamentos de cibersegurança e o cyberops, todos da cisco network academy,
 gosto muito da areá de TI, não me vejo fazendo outra coisa.
----
+
 também gosto de muitas outras coisas como fotografia, música
 que são essenciais na minha vida, não tenho muitos hobbies
 mas admiro quem toca estrumentos musicas, queria aprender saxofone,
