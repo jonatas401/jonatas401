@@ -1,6 +1,7 @@
 
 
-![capa github](https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png" )
+![](https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png" )
+
 
 <center>
 <table>
