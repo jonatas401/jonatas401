@@ -1,6 +1,9 @@
 # 
 # jonatas augusto da silva
 
+
+<img width="400px" align="left" src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/bem-vindo.png" />
+
 <center>
 <table>
     <tr>
@@ -12,16 +15,16 @@
 
 ### Texto de boas vindas <img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/atom.png" width="30px"></h2>
 
-olá, meu nome é jonatas, estudo programação web no IFPE
-também tenho curso de redes o "network essencials" da cisco e CCNA1
-gosto muito da aréa de segurança de sistemas e tenho cursos na area também
-tenho introdução e fundamentos de cibersegurança e o cyberops, todos da cisco network academy
-gosto muito da areá de TI, não me vejo fazendo outra coisa 
-
+olá, meu nome é jonatas, estudo programação web no IFPE,
+também tenho curso de redes o "network essencials" e "CCNA1" da cisco,
+gosto muito da aréa de segurança de sistemas e tenho cursos na area também,
+tenho introdução e fundamentos de cibersegurança e o cyberops, todos da cisco network academy,
+gosto muito da areá de TI, não me vejo fazendo outra coisa.
+---
 também gosto de muitas outras coisas como fotografia, música
 que são essenciais na minha vida, não tenho muitos hobbies
-mas admiro quem toca estrumentos musicas, queria aprender saxofone
-também gosto de arte marciais e queria aprender karate  
+mas admiro quem toca estrumentos musicas, queria aprender saxofone,
+também gosto de arte marciais e queria aprender karate.  
 
 
 
@@ -36,4 +39,4 @@ também gosto de arte marciais e queria aprender karate
 
 <a href="https://www.instagram.com/jonatas_a.s"><img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/instagram.png" width="16"></img></a> [instagram](https://www.instagram.com/jonatas_a.s) 
 
-![](https://komarev.com/ghpvc/?username=jonatas401&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=jonatas401&color=blue&style=flat)
