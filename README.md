@@ -12,6 +12,6 @@
 
 <a href="https://www.linkedin.com/in/jonatas-augusto-aa933b199"><img src="https://github.com/jonatas401/image/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jonatas-augusto-aa933b199)  
 
-<a href="https://www.instagram.com/jonatas_a.s"><img src="https://github.com/jonatas401/jonatasaugusto/tree/main/image/instagram.png" width="16"></img></a> [instagram](https://www.instagram.com/jonatas_a.s) 
+<a href="https://www.instagram.com/jonatas_a.s"><img src="https://github.com/jonatas401/jonatasaugusto/blob/main/image/instagram.png" width="16"></img></a> [instagram](https://www.instagram.com/jonatas_a.s) 
 
 ![](https://komarev.com/ghpvc/?username=jonatas401&color=blue&style=flat
