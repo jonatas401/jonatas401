@@ -22,7 +22,7 @@ gosto muito da areá de TI, não me vejo fazendo outra coisa.
 
 também gosto de muitas outras coisas como fotografia, música
 que são essenciais na minha vida, não tenho muitos hobbies
-mas admiro quem toca estrumentos musicas, queria aprender saxofone,
+mas admiro quem toca estrumentos musicais, queria aprender saxofone,
 também gosto de arte marciais e queria aprender karate.  
 
 
